@@ -41,5 +41,4 @@ public static string SendMail(string mail,string subject,string body)
             }
 
             return NotifyMessage;
-
         }
