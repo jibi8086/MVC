@@ -1,21 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- @jibi8086 Sign out
-0
-0 0 sanal28/MVc
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Insights
-MVc/ClearAllControls_By_divId.cs
-5601341  7 minutes ago
-@sanal28 sanal28 Create ClearAllControls_By_divId.cs
-     
-70 lines (62 sloc)  3.11 KB
-//
   <div class="popupsubdiv" id="divClearPwdChange">
                     <div class="row">
                         <div class="col-md-12">
